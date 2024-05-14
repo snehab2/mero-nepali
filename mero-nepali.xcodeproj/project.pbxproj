@@ -13,6 +13,7 @@
 		A31F92E72BF2F0330089E7DC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A31F92E62BF2F0330089E7DC /* Preview Assets.xcassets */; };
 		A31F92E92BF2F0330089E7DC /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = A31F92E82BF2F0330089E7DC /* Persistence.swift */; };
 		A31F92EC2BF2F0330089E7DC /* mero_nepali.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = A31F92EA2BF2F0330089E7DC /* mero_nepali.xcdatamodeld */; };
+		A31F92F52BF2FC4A0089E7DC /* Lesson1Vocabulary.json in Resources */ = {isa = PBXBuildFile; fileRef = A31F92F42BF2FC4A0089E7DC /* Lesson1Vocabulary.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		A31F92E62BF2F0330089E7DC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A31F92E82BF2F0330089E7DC /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		A31F92EB2BF2F0330089E7DC /* mero_nepali.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = mero_nepali.xcdatamodel; sourceTree = "<group>"; };
+		A31F92F42BF2FC4A0089E7DC /* Lesson1Vocabulary.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Lesson1Vocabulary.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				A31F92DF2BF2F0320089E7DC /* mero_nepaliApp.swift */,
 				A31F92E12BF2F0320089E7DC /* ContentView.swift */,
 				A31F92E32BF2F0330089E7DC /* Assets.xcassets */,
+				A31F92F42BF2FC4A0089E7DC /* Lesson1Vocabulary.json */,
 				A31F92E82BF2F0330089E7DC /* Persistence.swift */,
 				A31F92EA2BF2F0330089E7DC /* mero_nepali.xcdatamodeld */,
 				A31F92E52BF2F0330089E7DC /* Preview Content */,
@@ -133,6 +136,7 @@
 			files = (
 				A31F92E72BF2F0330089E7DC /* Preview Assets.xcassets in Resources */,
 				A31F92E42BF2F0330089E7DC /* Assets.xcassets in Resources */,
+				A31F92F52BF2FC4A0089E7DC /* Lesson1Vocabulary.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
